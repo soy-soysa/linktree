@@ -1,5 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/soy-soysa/linktree?style=flat)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fsoy-soysa.github.io%2Flinktree)
+![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsoy-soysa.github.io%2Flinktree)
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
